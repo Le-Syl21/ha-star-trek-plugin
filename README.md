@@ -1,0 +1,1 @@
+# ha-star-trek-plugin
