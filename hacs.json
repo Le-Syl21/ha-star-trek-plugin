@@ -1,0 +1,6 @@
+{
+  "name": "Star Trek LCARS Plugin",
+  "render_readme": true,
+  "content_in_root": true,
+  "filename": "star-trek-lcars.js"
+}
